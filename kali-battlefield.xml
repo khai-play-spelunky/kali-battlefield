@@ -1,0 +1,1289 @@
+<?xml version="1.0"?>
+<editors>
+	<s1-1>
+		<picker>
+			<entity id="1036" />
+			<entity id="1002" />
+			<entity id="1001" />
+			<entity id="1003" />
+			<entity id="103" />
+			<entity id="1005" />
+			<entity id="173" />
+			<entity id="118" />
+			<entity id="100" />
+			<entity id="119" />
+			<entity id="215" />
+			<entity id="1022" />
+			<entity id="211" />
+			<entity id="1033" />
+		</picker>
+	</s1-1>
+	<s1-2>
+		<picker>
+			<entity id="1003" />
+			<entity id="1063" />
+			<entity id="1002" />
+			<entity id="236" />
+			<entity id="1037" />
+			<entity id="66549" />
+			<entity id="154" />
+			<entity id="1" />
+			<entity id="1040" />
+			<entity id="515" />
+			<entity id="513" />
+			<entity id="1013" />
+			<entity id="211" />
+			<entity id="1022" />
+		</picker>
+	</s1-2>
+	<s1-3>
+		<picker>
+			<entity id="113" />
+			<entity id="525" />
+			<entity id="153" />
+			<entity id="119" />
+			<entity id="100" />
+			<entity id="1005" />
+		</picker>
+	</s1-3>
+	<s1-4>
+		<picker>
+			<entity id="66542" />
+			<entity id="1025" />
+			<entity id="519" />
+			<entity id="1016" />
+			<entity id="1060" />
+			<entity id="1048" />
+			<entity id="522" />
+			<entity id="215" />
+			<entity id="90" />
+			<entity id="516" />
+			<entity id="504" />
+			<entity id="502" />
+			<entity id="119" />
+			<entity id="174" />
+		</picker>
+	</s1-4>
+	<s2-1>
+		<picker>
+			<entity id="1020" />
+			<entity id="1008" />
+			<entity id="1003" />
+			<entity id="1031" />
+			<entity id="66567" />
+			<entity id="66581" />
+			<entity id="65709" />
+			<entity id="173" />
+			<entity id="66542" />
+			<entity id="1006" />
+			<entity id="1045" />
+			<entity id="66563" />
+			<entity id="1015" />
+			<entity id="22" />
+		</picker>
+	</s2-1>
+	<s4-3>
+		<picker>
+			<entity id="522" />
+			<entity id="508" />
+			<entity id="528" />
+		</picker>
+	</s4-3>
+	<sOlmec--4-4->
+		<picker>
+			<entity id="120" />
+		</picker>
+	</sOlmec--4-4->
+</editors>
+<settings>
+	<redirect>
+		<start to="5" />
+		<olmec to="16" />
+		<yama to="20" />
+	</redirect>
+	<checkpoints active="false" />
+</settings>
+<resources>
+	<s1-1 bombs="0" ropes="0" health="-1" />
+	<s1-2 bombs="-1" ropes="-1" health="-1" />
+	<s1-3 bombs="-1" ropes="-1" health="-1" />
+	<s1-4 bombs="-1" ropes="-1" health="-1" />
+	<s2-1 bombs="-1" ropes="-1" health="-1" />
+	<s2-2 bombs="-1" ropes="-1" health="-1" />
+	<s2-3 bombs="-1" ropes="-1" health="-1" />
+	<s2-4 bombs="-1" ropes="-1" health="-1" />
+	<s3-1 bombs="-1" ropes="-1" health="-1" />
+	<s3-2 bombs="-1" ropes="-1" health="-1" />
+	<s3-3 bombs="-1" ropes="-1" health="-1" />
+	<s3-4 bombs="-1" ropes="-1" health="-1" />
+	<s4-1 bombs="-1" ropes="-1" health="-1" />
+	<s4-2 bombs="-1" ropes="-1" health="-1" />
+	<s4-3 bombs="-1" ropes="-1" health="-1" />
+	<s5-1 bombs="-1" ropes="-1" health="-1" />
+	<s5-2 bombs="-1" ropes="-1" health="-1" />
+	<s5-3 bombs="-1" ropes="-1" health="-1" />
+	<sBlack-Market bombs="-1" ropes="-1" health="-1" />
+	<sHaunted-Castle bombs="-1" ropes="-1" health="-1" />
+	<sOlmec--4-4- bombs="-1" ropes="-1" health="-1" />
+	<sTut-1 bombs="-1" ropes="-1" health="-1" />
+	<sTut-2 bombs="-1" ropes="-1" health="-1" />
+	<sTut-3 bombs="-1" ropes="-1" health="-1" />
+	<sWorm bombs="-1" ropes="-1" health="-1" />
+	<sYama--5-4- bombs="-1" ropes="-1" health="-1" />
+</resources>
+<dark>
+	<s1-1 dark="false" noghost="false" />
+	<s1-2 dark="false" noghost="false" />
+	<s1-3 dark="false" noghost="false" />
+	<s1-4 dark="false" noghost="true" />
+	<s2-1 dark="false" noghost="false" />
+	<s2-2 dark="false" noghost="false" />
+	<s2-3 dark="false" noghost="false" />
+	<s2-4 dark="false" noghost="false" />
+	<s3-1 dark="false" noghost="false" />
+	<s3-2 dark="false" noghost="false" />
+	<s3-3 dark="false" noghost="false" />
+	<s3-4 dark="false" noghost="false" />
+	<s4-1 dark="false" noghost="false" />
+	<s4-2 dark="false" noghost="false" />
+	<s4-3 dark="false" noghost="false" />
+	<s5-1 dark="false" noghost="false" />
+	<s5-2 dark="false" noghost="false" />
+	<s5-3 dark="false" noghost="false" />
+	<sBlack-Market dark="false" noghost="false" />
+	<sHaunted-Castle dark="false" noghost="false" />
+	<sOlmec--4-4- dark="false" noghost="false" />
+	<sTut-1 dark="false" noghost="false" />
+	<sTut-2 dark="false" noghost="false" />
+	<sTut-3 dark="false" noghost="false" />
+	<sWorm dark="false" noghost="false" />
+	<sYama--5-4- dark="false" noghost="false" />
+</dark>
+<entities>
+	<s1-1>
+		<entity id="517" x="3" y="68.7" />
+		<entity id="1033" x="3" y="99" />
+		<entity id="1022" x="4" y="69" />
+		<entity id="103" x="5" y="91.7" />
+		<entity id="103" x="5" y="92.7" />
+		<entity id="101" x="6" y="70.7" />
+		<entity id="101" x="6" y="71.7" />
+		<entity id="101" x="6" y="72.7" />
+		<entity id="101" x="6" y="73.7" />
+		<entity id="215" x="6" y="91" />
+		<entity id="101" x="7" y="70.7" />
+		<entity id="101" x="7" y="71.7" />
+		<entity id="101" x="7" y="72.7" />
+		<entity id="101" x="7" y="73.7" />
+		<entity id="215" x="7" y="91" />
+		<entity id="101" x="8" y="70.7" />
+		<entity id="101" x="8" y="71.7" />
+		<entity id="101" x="8" y="72.7" />
+		<entity id="101" x="8" y="73.7" />
+		<entity id="101" x="9" y="70.7" />
+		<entity id="101" x="9" y="71.7" />
+		<entity id="101" x="9" y="72.7" />
+		<entity id="101" x="9" y="73.7" />
+		<entity id="101" x="12" y="98.7" />
+		<entity id="1033" x="13" y="92" />
+		<entity id="101" x="13" y="98.7" />
+		<entity id="101" x="15" y="98.7" />
+		<entity id="101" x="16" y="98.7" />
+		<entity id="101" x="18" y="98.7" />
+		<entity id="101" x="19" y="98.7" />
+		<entity id="103" x="22" y="82.7" />
+		<entity id="1003" x="22" y="85" />
+		<entity id="1001" x="22" y="87" />
+		<entity id="1003" x="22" y="89" />
+		<entity id="1001" x="22" y="91" />
+		<entity id="1003" x="22" y="93" />
+		<entity id="1002" x="23" y="81" />
+		<entity id="103" x="23" y="82.7" />
+		<entity id="1005" x="23" y="84" />
+		<entity id="1005" x="23" y="85" />
+		<entity id="1036" x="23" y="95" />
+		<entity id="103" x="24" y="82.7" />
+		<entity id="1003" x="24" y="85" />
+		<entity id="1001" x="24" y="87" />
+		<entity id="1003" x="24" y="89" />
+		<entity id="1001" x="24" y="91" />
+		<entity id="1003" x="24" y="93" />
+		<entity id="173" x="25" y="75" />
+		<entity id="173" x="26" y="75" />
+		<entity id="1001" x="27" y="83" />
+		<entity id="1003" x="27" y="85" />
+		<entity id="1001" x="27" y="87" />
+		<entity id="1003" x="27" y="89" />
+		<entity id="1001" x="27" y="91" />
+		<entity id="103" x="27" y="92.7" />
+		<entity id="1002" x="28" y="81" />
+		<entity id="1005" x="28" y="91" />
+		<entity id="1005" x="28" y="92" />
+		<entity id="103" x="28" y="92.7" />
+		<entity id="1036" x="28" y="95" />
+		<entity id="1001" x="29" y="83" />
+		<entity id="1003" x="29" y="85" />
+		<entity id="1001" x="29" y="87" />
+		<entity id="1003" x="29" y="89" />
+		<entity id="1001" x="29" y="91" />
+		<entity id="103" x="29" y="92.7" />
+		<entity id="103" x="31" y="69.7" />
+		<entity id="103" x="32" y="69.7" />
+		<entity id="103" x="32" y="82.7" />
+		<entity id="1003" x="32" y="85" />
+		<entity id="1001" x="32" y="87" />
+		<entity id="1003" x="32" y="89" />
+		<entity id="1001" x="32" y="91" />
+		<entity id="1003" x="32" y="93" />
+		<entity id="103" x="33" y="69.7" />
+		<entity id="1002" x="33" y="81" />
+		<entity id="103" x="33" y="82.7" />
+		<entity id="1005" x="33" y="84" />
+		<entity id="1005" x="33" y="85" />
+		<entity id="1036" x="33" y="95" />
+		<entity id="1017" x="33" y="98" />
+		<entity id="103" x="34" y="69.7" />
+		<entity id="103" x="34" y="82.7" />
+		<entity id="1003" x="34" y="85" />
+		<entity id="1001" x="34" y="87" />
+		<entity id="1003" x="34" y="89" />
+		<entity id="1001" x="34" y="91" />
+		<entity id="1003" x="34" y="93" />
+		<entity id="524" x="37" y="70.7" />
+		<entity id="524" x="37" y="71.7" />
+		<entity id="1001" x="37" y="83" />
+		<entity id="1003" x="37" y="85" />
+		<entity id="1001" x="37" y="87" />
+		<entity id="1003" x="37" y="89" />
+		<entity id="1001" x="37" y="91" />
+		<entity id="103" x="37" y="92.7" />
+		<entity id="524" x="38" y="70.7" />
+		<entity id="524" x="38" y="71.7" />
+		<entity id="1002" x="38" y="81" />
+		<entity id="1005" x="38" y="91" />
+		<entity id="1005" x="38" y="92" />
+		<entity id="103" x="38" y="92.7" />
+		<entity id="1036" x="38" y="95" />
+		<entity id="524" x="39" y="70.7" />
+		<entity id="524" x="39" y="71.7" />
+		<entity id="1001" x="39" y="83" />
+		<entity id="1003" x="39" y="85" />
+		<entity id="1001" x="39" y="87" />
+		<entity id="1003" x="39" y="89" />
+		<entity id="1001" x="39" y="91" />
+		<entity id="103" x="39" y="92.7" />
+	</s1-1>
+	<s1-2>
+		<entity id="515" x="5" y="94.7" />
+		<entity id="1003" x="5" y="98" />
+		<entity id="1063" x="6" y="95" />
+		<entity id="1040" x="9" y="76" />
+		<entity id="515" x="9" y="86.7" />
+		<entity id="515" x="10" y="86.7" />
+		<entity id="515" x="11" y="86.7" />
+		<entity id="1063" x="23" y="69" />
+		<entity id="1003" x="28" y="73" />
+		<entity id="1063" x="28" y="76" />
+		<entity id="1003" x="29" y="73" />
+		<entity id="1003" x="30" y="73" />
+		<entity id="1040" x="30" y="76" />
+		<entity id="1002" x="30" y="98" />
+		<entity id="1003" x="31" y="73" />
+		<entity id="1002" x="31" y="98" />
+		<entity id="53" x="32" y="69" />
+		<entity id="1040" x="32" y="76" />
+		<entity id="154" x="33" y="68.7" />
+		<entity id="1013" x="33" y="93" />
+		<entity id="1002" x="34" y="98" />
+		<entity id="1013" x="35" y="94" />
+		<entity id="1002" x="35" y="98" />
+		<entity id="22" x="37" y="69" />
+		<entity id="22" x="38" y="69" />
+		<entity id="515" x="38" y="95.7" />
+		<entity id="515" x="39" y="95.7" />
+		<entity id="1040" x="41" y="69" />
+		<entity id="515" x="41" y="95.7" />
+	</s1-2>
+	<s1-3>
+		<entity id="153" x="4" y="93.7" />
+		<entity id="525" x="5" y="70.7" />
+		<entity id="1005" x="5" y="96" />
+		<entity id="1005" x="5" y="97" />
+		<entity id="113" x="5" y="97.7" />
+		<entity id="525" x="6" y="70.7" />
+		<entity id="1005" x="6" y="96" />
+		<entity id="1005" x="6" y="97" />
+		<entity id="113" x="6" y="97.7" />
+		<entity id="525" x="8" y="70.7" />
+		<entity id="1005" x="8" y="96" />
+		<entity id="1005" x="8" y="97" />
+		<entity id="113" x="8" y="97.7" />
+		<entity id="525" x="9" y="70.7" />
+		<entity id="1005" x="9" y="96" />
+		<entity id="1005" x="9" y="97" />
+		<entity id="113" x="9" y="97.7" />
+		<entity id="525" x="11" y="70.7" />
+		<entity id="1005" x="11" y="96" />
+		<entity id="1005" x="11" y="97" />
+		<entity id="113" x="11" y="97.7" />
+		<entity id="525" x="12" y="70.7" />
+		<entity id="1005" x="12" y="96" />
+		<entity id="1005" x="12" y="97" />
+		<entity id="113" x="12" y="97.7" />
+		<entity id="525" x="14" y="70.7" />
+		<entity id="1005" x="14" y="96" />
+		<entity id="1005" x="14" y="97" />
+		<entity id="113" x="14" y="97.7" />
+		<entity id="525" x="15" y="70.7" />
+		<entity id="1005" x="15" y="96" />
+		<entity id="1005" x="15" y="97" />
+		<entity id="113" x="15" y="97.7" />
+		<entity id="525" x="17" y="70.7" />
+		<entity id="1005" x="17" y="96" />
+		<entity id="1005" x="17" y="97" />
+		<entity id="113" x="17" y="97.7" />
+		<entity id="525" x="18" y="70.7" />
+		<entity id="1005" x="18" y="96" />
+		<entity id="1005" x="18" y="97" />
+		<entity id="113" x="18" y="97.7" />
+		<entity id="525" x="20" y="70.7" />
+		<entity id="1005" x="20" y="96" />
+		<entity id="1005" x="20" y="97" />
+		<entity id="113" x="20" y="97.7" />
+		<entity id="525" x="21" y="70.7" />
+		<entity id="1005" x="21" y="96" />
+		<entity id="1005" x="21" y="97" />
+		<entity id="113" x="21" y="97.7" />
+		<entity id="525" x="23" y="70.7" />
+		<entity id="1005" x="23" y="96" />
+		<entity id="1005" x="23" y="97" />
+		<entity id="113" x="23" y="97.7" />
+		<entity id="525" x="24" y="70.7" />
+		<entity id="1005" x="24" y="96" />
+		<entity id="1005" x="24" y="97" />
+		<entity id="113" x="24" y="97.7" />
+		<entity id="525" x="26" y="70.7" />
+		<entity id="1005" x="26" y="96" />
+		<entity id="1005" x="26" y="97" />
+		<entity id="113" x="26" y="97.7" />
+		<entity id="525" x="27" y="70.7" />
+		<entity id="1005" x="27" y="96" />
+		<entity id="1005" x="27" y="97" />
+		<entity id="113" x="27" y="97.7" />
+		<entity id="525" x="29" y="70.7" />
+		<entity id="1005" x="29" y="96" />
+		<entity id="1005" x="29" y="97" />
+		<entity id="113" x="29" y="97.7" />
+		<entity id="525" x="30" y="70.7" />
+		<entity id="1005" x="30" y="96" />
+		<entity id="1005" x="30" y="97" />
+		<entity id="113" x="30" y="97.7" />
+		<entity id="525" x="32" y="70.7" />
+		<entity id="1005" x="32" y="96" />
+		<entity id="1005" x="32" y="97" />
+		<entity id="113" x="32" y="97.7" />
+		<entity id="525" x="33" y="70.7" />
+		<entity id="1005" x="33" y="96" />
+		<entity id="1005" x="33" y="97" />
+		<entity id="113" x="33" y="97.7" />
+		<entity id="525" x="35" y="70.7" />
+		<entity id="1005" x="35" y="96" />
+		<entity id="1005" x="35" y="97" />
+		<entity id="113" x="35" y="97.7" />
+		<entity id="525" x="36" y="70.7" />
+		<entity id="1005" x="36" y="96" />
+		<entity id="1005" x="36" y="97" />
+		<entity id="113" x="36" y="97.7" />
+		<entity id="525" x="38" y="70.7" />
+		<entity id="1005" x="38" y="96" />
+		<entity id="1005" x="38" y="97" />
+		<entity id="113" x="38" y="97.7" />
+		<entity id="525" x="39" y="70.7" />
+		<entity id="1005" x="39" y="96" />
+		<entity id="1005" x="39" y="97" />
+		<entity id="113" x="39" y="97.7" />
+	</s1-3>
+	<s1-4>
+		<entity id="197" x="5" y="81" />
+		<entity id="197" x="6" y="81" />
+		<entity id="1005" x="8" y="70" />
+		<entity id="113" x="8" y="70.7" />
+		<entity id="1005" x="9" y="70" />
+		<entity id="113" x="9" y="70.7" />
+		<entity id="1005" x="10" y="70" />
+		<entity id="113" x="10" y="70.7" />
+		<entity id="1006" x="11" y="68" />
+		<entity id="1005" x="11" y="70" />
+		<entity id="113" x="11" y="70.7" />
+		<entity id="1005" x="12" y="70" />
+		<entity id="113" x="12" y="70.7" />
+		<entity id="1005" x="13" y="70" />
+		<entity id="113" x="13" y="70.7" />
+		<entity id="197" x="13" y="88" />
+		<entity id="1005" x="14" y="70" />
+		<entity id="113" x="14" y="70.7" />
+		<entity id="1005" x="15" y="70" />
+		<entity id="113" x="15" y="70.7" />
+		<entity id="517" x="15" y="94.7" />
+		<entity id="1006" x="16" y="68" />
+		<entity id="1005" x="16" y="70" />
+		<entity id="113" x="16" y="70.7" />
+		<entity id="1005" x="17" y="70" />
+		<entity id="113" x="17" y="70.7" />
+		<entity id="197" x="17" y="86" />
+		<entity id="197" x="17" y="94" />
+		<entity id="197" x="17" y="96" />
+		<entity id="1005" x="18" y="70" />
+		<entity id="113" x="18" y="70.7" />
+		<entity id="517" x="18" y="95.7" />
+		<entity id="1005" x="19" y="70" />
+		<entity id="113" x="19" y="70.7" />
+		<entity id="1048" x="19" y="74" />
+		<entity id="1060" x="19" y="74.25" />
+		<entity id="197" x="19" y="94" />
+		<entity id="197" x="19" y="96" />
+		<entity id="1005" x="20" y="70" />
+		<entity id="113" x="20" y="70.7" />
+		<entity id="1048" x="20" y="74" />
+		<entity id="1060" x="20" y="74.25" />
+		<entity id="1006" x="21" y="68" />
+		<entity id="1005" x="21" y="70" />
+		<entity id="113" x="21" y="70.7" />
+		<entity id="1005" x="22" y="70" />
+		<entity id="113" x="22" y="70.7" />
+		<entity id="1005" x="23" y="70" />
+		<entity id="113" x="23" y="70.7" />
+		<entity id="197" x="23" y="94" />
+		<entity id="197" x="23" y="96" />
+		<entity id="1005" x="24" y="70" />
+		<entity id="113" x="24" y="70.7" />
+		<entity id="517" x="24" y="95.7" />
+		<entity id="1005" x="25" y="70" />
+		<entity id="113" x="25" y="70.7" />
+		<entity id="1016" x="25" y="74" />
+		<entity id="197" x="25" y="94" />
+		<entity id="197" x="25" y="96" />
+		<entity id="1006" x="26" y="68" />
+		<entity id="1005" x="26" y="70" />
+		<entity id="113" x="26" y="70.7" />
+		<entity id="522" x="26" y="73.7" />
+		<entity id="1025" x="26" y="75" />
+		<entity id="1005" x="27" y="70" />
+		<entity id="113" x="27" y="70.7" />
+		<entity id="197" x="27" y="88" />
+		<entity id="517" x="27" y="94.7" />
+		<entity id="1005" x="28" y="70" />
+		<entity id="113" x="28" y="70.7" />
+		<entity id="1005" x="29" y="70" />
+		<entity id="113" x="29" y="70.7" />
+		<entity id="1005" x="30" y="70" />
+		<entity id="113" x="30" y="70.7" />
+		<entity id="1033" x="30" y="75" />
+		<entity id="1006" x="31" y="68" />
+		<entity id="1005" x="31" y="70" />
+		<entity id="113" x="31" y="70.7" />
+		<entity id="519" x="31" y="73.7" />
+		<entity id="1033" x="31" y="75" />
+		<entity id="1005" x="32" y="70" />
+		<entity id="113" x="32" y="70.7" />
+		<entity id="502" x="32" y="95.7" />
+		<entity id="1005" x="33" y="70" />
+		<entity id="113" x="33" y="70.7" />
+		<entity id="504" x="33" y="95.7" />
+		<entity id="1005" x="34" y="70" />
+		<entity id="113" x="34" y="70.7" />
+		<entity id="516" x="34" y="95.7" />
+		<entity id="1005" x="35" y="70" />
+		<entity id="113" x="35" y="70.7" />
+		<entity id="1006" x="36" y="68" />
+		<entity id="1005" x="36" y="70" />
+		<entity id="113" x="36" y="70.7" />
+		<entity id="517" x="36" y="73.7" />
+		<entity id="1005" x="37" y="70" />
+		<entity id="113" x="37" y="70.7" />
+		<entity id="1006" x="41" y="68" />
+	</s1-4>
+	<s2-1>
+		<entity id="1045" x="3" y="69" />
+		<entity id="173" x="3" y="70" />
+		<entity id="1003" x="3" y="71" />
+		<entity id="173" x="4" y="69" />
+		<entity id="1013" x="4" y="70" />
+		<entity id="173" x="4" y="71" />
+		<entity id="1013" x="5" y="69" />
+		<entity id="173" x="5" y="70" />
+		<entity id="1003" x="5" y="71" />
+		<entity id="173" x="6" y="69" />
+		<entity id="1013" x="6" y="70" />
+		<entity id="173" x="6" y="71" />
+		<entity id="1013" x="6" y="73" />
+		<entity id="1032" x="6" y="75" />
+		<entity id="1013" x="7" y="69" />
+		<entity id="173" x="7" y="70" />
+		<entity id="1003" x="7" y="71" />
+		<entity id="1041" x="7" y="86" />
+		<entity id="173" x="8" y="69" />
+		<entity id="1013" x="8" y="70" />
+		<entity id="173" x="8" y="71" />
+		<entity id="1013" x="9" y="69" />
+		<entity id="173" x="9" y="70" />
+		<entity id="1003" x="9" y="71" />
+		<entity id="1013" x="9" y="73" />
+		<entity id="1032" x="9" y="75" />
+		<entity id="1006" x="10" y="69" />
+		<entity id="1013" x="10" y="70" />
+		<entity id="1031" x="11" y="71" />
+		<entity id="1041" x="11" y="86" />
+		<entity id="1031" x="12" y="69" />
+		<entity id="1027" x="15" y="73" />
+		<entity id="1013" x="16" y="71" />
+		<entity id="1013" x="16" y="75" />
+		<entity id="1008" x="16" y="97" />
+		<entity id="1027" x="17" y="70" />
+		<entity id="1013" x="17" y="73" />
+		<entity id="1008" x="18" y="97" />
+		<entity id="1013" x="19" y="73" />
+		<entity id="1045" x="19" y="87" />
+		<entity id="1008" x="20" y="97" />
+		<entity id="1027" x="21" y="70" />
+		<entity id="1027" x="21" y="73" />
+		<entity id="1045" x="22" y="85" />
+		<entity id="1020" x="25" y="71" />
+		<entity id="1020" x="27" y="71" />
+		<entity id="1008" x="27" y="97" />
+		<entity id="1045" x="28" y="74" />
+		<entity id="1020" x="29" y="71" />
+		<entity id="1045" x="29" y="91" />
+		<entity id="1008" x="29" y="97" />
+		<entity id="1020" x="31" y="71" />
+		<entity id="1045" x="32" y="89" />
+		<entity id="1008" x="34" y="69" />
+		<entity id="1003" x="34" y="71" />
+		<entity id="1015" x="34" y="98" />
+		<entity id="1008" x="35" y="69" />
+		<entity id="1003" x="35" y="71" />
+		<entity id="1032" x="35" y="78" />
+		<entity id="1015" x="35" y="97" />
+		<entity id="1008" x="36" y="69" />
+		<entity id="1003" x="36" y="71" />
+		<entity id="1031" x="36" y="75" />
+		<entity id="1032" x="36" y="78" />
+		<entity id="1015" x="36" y="98" />
+		<entity id="1003" x="37" y="71" />
+		<entity id="1015" x="37" y="97" />
+		<entity id="1003" x="38" y="71" />
+		<entity id="1032" x="38" y="78" />
+		<entity id="1015" x="38" y="98" />
+		<entity id="1031" x="39" y="69" />
+		<entity id="1003" x="39" y="71" />
+		<entity id="1032" x="39" y="78" />
+		<entity id="1032" x="39" y="82" />
+		<entity id="1003" x="40" y="71" />
+		<entity id="1031" x="40" y="75" />
+		<entity id="1027" x="40" y="81" />
+		<entity id="1034" x="40" y="82" />
+		<entity id="1003" x="41" y="71" />
+		<entity id="1027" x="41" y="80" />
+		<entity id="1003" x="42" y="71" />
+	</s2-1>
+	<s2-2>
+		<entity id="1007" x="11" y="74" />
+		<entity id="1015" x="13" y="88" />
+		<entity id="113" x="14" y="71.7" />
+		<entity id="1015" x="18" y="88" />
+		<entity id="1007" x="18" y="93" />
+		<entity id="1007" x="22" y="87" />
+		<entity id="1041" x="23" y="93" />
+		<entity id="1007" x="24" y="71" />
+		<entity id="113" x="24" y="84.7" />
+		<entity id="1004" x="25" y="77" />
+		<entity id="1059" x="26" y="90" />
+		<entity id="113" x="27" y="92.7" />
+		<entity id="1043" x="30" y="77" />
+		<entity id="1004" x="31" y="91" />
+		<entity id="1043" x="31" y="93" />
+		<entity id="1007" x="32" y="79" />
+		<entity id="1015" x="36" y="79" />
+		<entity id="1043" x="37" y="69" />
+		<entity id="1059" x="37" y="91" />
+		<entity id="113" x="38" y="74.7" />
+	</s2-2>
+	<s2-3>
+		<entity id="113" x="19" y="92.7" />
+		<entity id="101" x="32" y="93.7" />
+		<entity id="1007" x="34" y="95" />
+	</s2-3>
+	<s2-4>
+		<entity id="1007" x="9" y="81" />
+		<entity id="101" x="10" y="76.7" />
+		<entity id="1041" x="11" y="85" />
+		<entity id="511" x="12" y="84.7" />
+		<entity id="1007" x="21" y="93" />
+		<entity id="1043" x="26" y="73" />
+		<entity id="1007" x="27" y="93" />
+		<entity id="1004" x="31" y="93" />
+		<entity id="1007" x="33" y="85" />
+		<entity id="1041" x="41" y="77" />
+	</s2-4>
+	<s3-1>
+		<entity id="101" x="3" y="84.7" />
+		<entity id="1009" x="8" y="93" />
+		<entity id="1009" x="10" y="75" />
+		<entity id="113" x="14" y="71.7" />
+		<entity id="1039" x="17" y="91" />
+		<entity id="1010" x="17" y="98" />
+		<entity id="1009" x="21" y="72" />
+		<entity id="1010" x="22" y="82" />
+		<entity id="101" x="24" y="97.7" />
+		<entity id="1009" x="30" y="80" />
+		<entity id="1009" x="30" y="96" />
+		<entity id="101" x="34" y="95.7" />
+		<entity id="1010" x="38" y="81" />
+		<entity id="113" x="42" y="79.7" />
+	</s3-1>
+	<s3-2>
+		<entity id="1039" x="7" y="83" />
+		<entity id="1009" x="12" y="81" />
+		<entity id="1010" x="15" y="82" />
+		<entity id="1010" x="16" y="90" />
+		<entity id="1039" x="19" y="78" />
+		<entity id="1010" x="21" y="74" />
+		<entity id="1009" x="34" y="69" />
+		<entity id="1010" x="35" y="74" />
+		<entity id="1010" x="39" y="97" />
+	</s3-2>
+	<s3-3>
+		<entity id="1009" x="7" y="97" />
+		<entity id="1009" x="9" y="70" />
+		<entity id="1010" x="9" y="83" />
+		<entity id="1039" x="9" y="88" />
+		<entity id="1010" x="18" y="74" />
+		<entity id="1010" x="18" y="98" />
+		<entity id="1009" x="20" y="93" />
+		<entity id="1010" x="26" y="83" />
+		<entity id="1010" x="39" y="97" />
+		<entity id="1009" x="41" y="84" />
+	</s3-3>
+	<s3-4>
+		<entity id="1010" x="5" y="88" />
+		<entity id="1009" x="8" y="82" />
+		<entity id="1010" x="15" y="74" />
+		<entity id="1039" x="16" y="70" />
+		<entity id="1010" x="25" y="82" />
+		<entity id="1010" x="28" y="88" />
+		<entity id="1010" x="28" y="98" />
+		<entity id="1039" x="33" y="86" />
+		<entity id="1009" x="38" y="89" />
+		<entity id="1009" x="40" y="69" />
+	</s3-4>
+	<s4-1>
+		<entity id="1036" x="6" y="90" />
+		<entity id="1004" x="7" y="92" />
+		<entity id="1004" x="8" y="69" />
+		<entity id="1036" x="9" y="86" />
+		<entity id="113" x="10" y="68.7" />
+		<entity id="1029" x="17" y="77" />
+		<entity id="113" x="23" y="85.7" />
+		<entity id="113" x="23" y="92.7" />
+		<entity id="1004" x="24" y="77" />
+		<entity id="1042" x="26" y="87" />
+		<entity id="115" x="27" y="93" />
+		<entity id="1004" x="28" y="95" />
+		<entity id="113" x="29" y="79.7" />
+		<entity id="1044" x="29" y="83" />
+		<entity id="1004" x="33" y="85" />
+		<entity id="113" x="41" y="68.7" />
+	</s4-1>
+	<s4-2>
+		<entity id="1004" x="6" y="69" />
+		<entity id="1001" x="6" y="98" />
+		<entity id="113" x="8" y="71.7" />
+		<entity id="1044" x="8" y="82" />
+		<entity id="113" x="12" y="92.7" />
+		<entity id="1001" x="22" y="93" />
+		<entity id="1001" x="28" y="77" />
+		<entity id="1001" x="28" y="98" />
+		<entity id="1004" x="29" y="72" />
+		<entity id="1042" x="29" y="81" />
+		<entity id="1042" x="29" y="89" />
+		<entity id="113" x="30" y="85.7" />
+		<entity id="101" x="31" y="79.7" />
+		<entity id="101" x="32" y="97.7" />
+		<entity id="1001" x="36" y="85" />
+	</s4-2>
+	<s4-3>
+		<entity id="101" x="5" y="71.7" />
+		<entity id="1001" x="7" y="69" />
+		<entity id="1036" x="7" y="87" />
+		<entity id="508" x="7" y="92.7" />
+		<entity id="522" x="8" y="92.7" />
+		<entity id="1004" x="10" y="93" />
+		<entity id="101" x="12" y="81.7" />
+		<entity id="1044" x="16" y="77" />
+		<entity id="1036" x="16" y="96" />
+		<entity id="1001" x="19" y="70" />
+		<entity id="1001" x="20" y="77" />
+		<entity id="1044" x="24" y="88" />
+		<entity id="1001" x="30" y="85" />
+		<entity id="1001" x="39" y="95" />
+		<entity id="1036" x="41" y="85" />
+	</s4-3>
+	<s5-1>
+		<entity id="1031" x="4" y="85" />
+		<entity id="113" x="13" y="92.7" />
+		<entity id="1031" x="15" y="69" />
+		<entity id="113" x="16" y="76.7" />
+		<entity id="1031" x="19" y="77" />
+		<entity id="1020" x="19" y="83" />
+		<entity id="1031" x="19" y="93" />
+		<entity id="1030" x="21" y="74" />
+		<entity id="1030" x="21" y="81" />
+		<entity id="1020" x="21" y="91" />
+		<entity id="1031" x="27" y="88" />
+	</s5-1>
+	<s5-2>
+		<entity id="101" x="8" y="70.7" />
+		<entity id="1030" x="11" y="73" />
+		<entity id="1031" x="12" y="69" />
+		<entity id="112" x="15" y="76.7" />
+		<entity id="1030" x="17" y="83" />
+		<entity id="1004" x="18" y="77" />
+		<entity id="1031" x="19" y="92" />
+		<entity id="1031" x="20" y="97" />
+		<entity id="101" x="21" y="89.7" />
+		<entity id="1031" x="24" y="77" />
+		<entity id="1004" x="27" y="69" />
+		<entity id="101" x="29" y="82.7" />
+		<entity id="1031" x="30" y="73" />
+		<entity id="112" x="32" y="68.7" />
+		<entity id="1031" x="34" y="80" />
+		<entity id="112" x="35" y="96.7" />
+		<entity id="1030" x="38" y="85" />
+		<entity id="1031" x="38" y="97" />
+	</s5-2>
+	<s5-3>
+		<entity id="1031" x="9" y="71" />
+		<entity id="1030" x="11" y="82" />
+		<entity id="112" x="12" y="68.7" />
+		<entity id="1004" x="13" y="85" />
+		<entity id="101" x="15" y="88.7" />
+		<entity id="112" x="18" y="84.7" />
+		<entity id="112" x="22" y="96.7" />
+		<entity id="1031" x="24" y="69" />
+		<entity id="1031" x="24" y="93" />
+		<entity id="112" x="25" y="76.7" />
+		<entity id="1030" x="25" y="81" />
+		<entity id="113" x="27" y="68.7" />
+		<entity id="1030" x="33" y="98" />
+		<entity id="1004" x="34" y="85" />
+		<entity id="113" x="35" y="76.7" />
+		<entity id="1031" x="37" y="77" />
+		<entity id="1030" x="37" y="89" />
+		<entity id="113" x="40" y="84.7" />
+		<entity id="1030" x="41" y="81" />
+		<entity id="113" x="41" y="93.7" />
+	</s5-3>
+	<sBlack-Market>
+		<entity id="113" x="7" y="84.7" />
+		<entity id="1004" x="9" y="77" />
+		<entity id="1007" x="11" y="73" />
+		<entity id="1038" x="15" y="69" />
+		<entity id="1007" x="22" y="72" />
+		<entity id="1007" x="24" y="70" />
+		<entity id="113" x="39" y="84.7" />
+		<entity id="1007" x="41" y="87" />
+		<entity id="112" x="41" y="92.7" />
+	</sBlack-Market>
+	<sHaunted-Castle>
+		<entity id="1003" x="8" y="91" />
+		<entity id="1045" x="20" y="70" />
+		<entity id="1003" x="21" y="83" />
+		<entity id="1045" x="21" y="87" />
+		<entity id="1045" x="23" y="79" />
+	</sHaunted-Castle>
+	<sWorm>
+		<entity id="1047" x="3" y="71" />
+		<entity id="1047" x="5" y="83" />
+		<entity id="1046" x="7" y="64" />
+		<entity id="1046" x="10" y="26" />
+		<entity id="1046" x="10" y="87" />
+		<entity id="1068" x="11" y="8" />
+		<entity id="1035" x="11" y="75" />
+		<entity id="1046" x="11" y="77" />
+		<entity id="1047" x="11" y="87" />
+		<entity id="1046" x="12" y="6" />
+		<entity id="1047" x="12" y="15" />
+		<entity id="1035" x="12" y="47" />
+		<entity id="1046" x="12" y="93" />
+		<entity id="1035" x="13" y="37" />
+		<entity id="1068" x="13" y="45" />
+		<entity id="1035" x="13" y="64" />
+		<entity id="1035" x="14" y="19" />
+		<entity id="1035" x="14" y="69" />
+		<entity id="1035" x="14" y="85" />
+		<entity id="1035" x="15" y="11" />
+		<entity id="1035" x="15" y="28" />
+		<entity id="1068" x="15" y="75" />
+		<entity id="1047" x="16" y="87" />
+		<entity id="1047" x="17" y="71" />
+		<entity id="1068" x="19" y="40" />
+		<entity id="1047" x="19" y="83" />
+		<entity id="1046" x="20" y="27" />
+		<entity id="1046" x="20" y="75" />
+		<entity id="1047" x="20" y="91" />
+		<entity id="1046" x="21" y="69" />
+	</sWorm>
+</entities>
+<messages>
+	<s1-2>
+		<msg cx="29" cy="30" str="The Golden Chest is in the next level" />
+	</s1-2>
+</messages>
+<chunks>
+	<Tutorial-1-0>11111111111111111122121111120010222220001000000000100000000010090000001111111111</Tutorial-1-0>
+	<Tutorial-1-1>1111111111111111110001111100000000000000000000000!000000000000000000001111111111</Tutorial-1-1>
+	<Tutorial-1-2>1111111111222vv111000000000000000EE00000000vv00EE0000vv00vv0111vvN0vvN1111111vv1</Tutorial-1-2>
+	<Tutorial-1-3>1111111111222111111100022221110000000111000000vvv1000000v0010000000EE1111000v==1</Tutorial-1-3>
+	<Tutorial-1-4>1111111111111111111111vvvv111100000001120L0EE000200Pvvvv00000LvvE000001Pvvvv1111</Tutorial-1-4>
+	<Tutorial-1-5>11111111001111111200222221120000000110000000E110000001111R000000E111111100111110</Tutorial-1-5>
+	<Tutorial-1-6>0000000000000000000000000000000000000000000000000000000!000011000000000000001111</Tutorial-1-6>
+	<Tutorial-1-7>00000000000001100000000000000000000011110000000011000011111100N01111111111111111</Tutorial-1-7>
+	<Tutorial-1-8>0L111111110L011111110L000000000L000000000L00!000000L000000000L000000001111111111</Tutorial-1-8>
+	<Tutorial-1-9>0000000000000000000000EE000000001100000v0011000000001111100000111110001111111111</Tutorial-1-9>
+	<Tutorial-1-10>0000000000000110000000N0000000vvv000000000000N00000vvvvv000000000000001111111111</Tutorial-1-10>
+	<Tutorial-1-11>000000000000L000000000P11000E000L110011000L110000000L111000000L11100L01111111vPv</Tutorial-1-11>
+	<Tutorial-1-12>1111111112111111222022222200000000000000000900000000vvv0000v00vvv0000v1vvvvv111v</Tutorial-1-12>
+	<Tutorial-1-13>1111111111001EE0000000vvvv000000v00v0000000NE0001100v==vv00000111110001111111111</Tutorial-1-13>
+	<Tutorial-1-14>000000000000000000000000000000000000000000110011000011001111ssssss0R111111111111</Tutorial-1-14>
+	<Tutorial-1-15>00000000L000E00000L000110000L000010000L000000000L000000000L0000000N0L01111111111</Tutorial-1-15>
+	<Tutorial-2-0>00001111110000000000z000000000111000000011L00000e0vvPvvvvv11vEL000Ev11vvL0vvvv11</Tutorial-2-0>
+	<Tutorial-2-1>1111111111000000000000000000000000000!000e000000001111N00000111110N0001111111111</Tutorial-2-1>
+	<Tutorial-2-2>11111111110110000000000000000000000000000000001110000001111s00000011111111111111</Tutorial-2-2>
+	<Tutorial-2-3>111111111100000000010EEEE000010vvvv0090100vv001111ssvvss111111vv1111111111111111</Tutorial-2-3>
+	<Tutorial-2-4>11L00001111100L000001111P00000vvvvL00000v00vL00000vEE0L00000v==vvvv1111111111111</Tutorial-2-4>
+	<Tutorial-2-5>1111111111111111111111011110010u000u000u00000000000000!0000000000000001111111111</Tutorial-2-5>
+	<Tutorial-2-6>1111111111111110000011000000000000000011000000!011000000001100000000111111111111</Tutorial-2-6>
+	<Tutorial-2-7>1111111111000111111100000L000z111vvPvvvv11111L000011111L000011111L00L01111vvvvPv</Tutorial-2-7>
+	<Tutorial-2-8>111111111111111111vv1vvv1111v00eee0111vh0vvv0111v=000001111110001111111001111111</Tutorial-2-8>
+	<Tutorial-2-9>1100000011vv001111110v00111111h001111111=v11111111111111111111111111111111111111</Tutorial-2-9>
+	<Tutorial-2-10>11111111111111111111111001110011a0000u00111000000011e000N000111111111111111111vv</Tutorial-2-10>
+	<Tutorial-2-11>11111111L011101110L001100000L000000vvvvv000000E11111110011111111001111vvvv001111</Tutorial-2-11>
+	<Tutorial-2-12>10000000001000000000000!00000000000000001110101011RR10101011111s1s1s111111111111</Tutorial-2-12>
+	<Tutorial-2-13>11111111110000111000000000000000900000001111000!00111100000111110a00011111111111</Tutorial-2-13>
+	<Tutorial-2-14>11100011v0011000000000000000v=0000000111000000001110N000001011111111111111111111</Tutorial-2-14>
+	<Tutorial-2-15>00v00vv000v00EEvEE00v=vvvvvv0011111111100000001100000z00040011111111111111111111</Tutorial-2-15>
+	<Tutorial-3-0>1111111111vvvvvv2222v0000v0000v009000000v====v000011111100vv11111111vv1111111111</Tutorial-3-0>
+	<Tutorial-3-1>22000000000000000!000000000000001000a0o00000011111vssssR1111v1111111111111111111</Tutorial-3-1>
+	<Tutorial-3-2>110011100000000010000000000000000000000v0000N0000v0o0111000v111111001v1111110001</Tutorial-3-2>
+	<Tutorial-3-3>0uvv10v00000vv000EEE000v00v===vvvv000000vv0v000001v00N00N00hvv=v1111111111111111</Tutorial-3-3>
+	<Tutorial-3-4>11111111110001111111z000022111110000000011000000vv11o00L000E11110Pvvvv11110L1111</Tutorial-3-4>
+	<Tutorial-3-5>11111110011111110000000u0u00000o00000000v111110000v111110000v111110I001111111A01</Tutorial-3-5>
+	<Tutorial-3-6>1111111001011111000100111100110011110000!111vvv0001111vE0000h111vvvv001111110000</Tutorial-3-6>
+	<Tutorial-3-7>111111111111111111111111221111112000l11101W0000...0k00000...000S000K..bbbbbbbbbb</Tutorial-3-7>
+	<Tutorial-3-8>11110Lvvv111100L0000vvv0vvvvv0vE00000000vvvvv0000011v0v0000011v000001111v=v00011</Tutorial-3-8>
+	<Tutorial-3-9>111111111100000000000000000000000L011111000P11vvvv000L11v000000L040EEE111111v===</Tutorial-3-9>
+	<Tutorial-3-10>11110000000000000N01000N0111111111111111vvvv111010000v100000EE00400000===v111111</Tutorial-3-10>
+	<Tutorial-3-11>111111111111111111111111111111111111111111111111110001100010000000000000100000D0</Tutorial-3-11>
+	<Tutorial-3-12>1100001111110011111100000000u00000a00000vvvvv00000h0000001101111111110111111111s</Tutorial-3-12>
+	<Tutorial-3-13>111111z0111111111011000000000000000000000000000000101010110o10101011111s1s1s1111</Tutorial-3-13>
+	<Tutorial-3-14>111111111111111111110000000u0000000!0000N0000000001100000000110001111111sss11111</Tutorial-3-14>
+	<Tutorial-3-15>111111111111111vvvvv00001v0000000000009000100v====001000111111111111111111111111</Tutorial-3-15>
+	<Mines-1-0>00000000G000000000G000000000G000000000G000000000G000000000G000000000G009000000G0</Mines-1-0>
+	<Mines-1-1>0L00G00L000L00G00L000L00G00L000L00G00L000L00G00L000L00G00P220L00G00L000L00G00L00</Mines-1-1>
+	<Mines-1-2>00000000000000000000000000000000000000000000000000m222222222G000000000G000000000</Mines-1-2>
+	<Mines-1-3>00000000000000000000000000000000000000000000000000m222222222G000000000G000000000</Mines-1-3>
+	<Mines-1-4>11100000G000000000G000000000G000000000P000000000G000000000G000000000G000000000G0</Mines-1-4>
+	<Mines-1-5>0L00G00L000L00G00L110L00G00L000P00P00P000L00G00L000L00G00P220L00G00L000L00G00L00</Mines-1-5>
+	<Mines-1-6>G000000000P1111m1111G0000G0000G0000G0000G0000G0000m2222P222200000G000000000G0000</Mines-1-6>
+	<Mines-1-7>G000000000P1111m1111G0000G0000G0000G0000G0000G0000m2222P222200000G000000000G0000</Mines-1-7>
+	<Mines-1-8>00000000G000000000G000000000G000000000G000000000P000000000G000000000G000000000G0</Mines-1-8>
+	<Mines-1-9>0L00G00L000L00G00P110L00G00L000L00G00L000P00P00P000L00G00L000L00G00L000L00G00L00</Mines-1-9>
+	<Mines-1-10>00000G000011111m1111000000000000000000000000000001bbbbbb0001b|000b0001b0KK0b0001</Mines-1-10>
+	<Mines-1-11>00000G000011111m1111000000000000000000001222222211mwwwwwwwm1m3333333m1mmmmmmmmm1</Mines-1-11>
+	<Mines-1-12>00000000G000000000G000000000G000000000G000000000G000000000P000000000Gxwwwwwwwwww</Mines-1-12>
+	<Mines-1-13>0L00G00L000L00G00L000L00G00L000L00G00L000L00G00L000P00P00P00xLxxGxxLxxwwwwwwwwww</Mines-1-13>
+	<Mines-1-14>b0000b0001b0000b0000bbbbbb00000000000000000000000000000000000000000222wwwwwwwwww</Mines-1-14>
+	<Mines-1-15>1111111111000000000000000000000000000000000000000000000000802220000011wwwwwwwwww</Mines-1-15>
+	<Mines-2-0>111111111111022222221102222222110222222210000000000G113ww3wwgP113333331G11111111</Mines-2-0>
+	<Mines-2-1>111111111122222222222222222222222222222200000000003ww3ww3ww333333333331111111111</Mines-2-1>
+	<Mines-2-2>1111111111222222100X222222100022222210000000000000ww3ww3ww3w333333333w1111111111</Mines-2-2>
+	<Mines-2-3>1111111111X0010000010001g00001000110000100000gg9g1wwww311111wwww331111111133www1</Mines-2-3>
+	<Mines-2-4>1G222222221G222222221G....22..1G..2l00l22G0.W000002G0k0000001G000Sgg0K1Pbbbbbbbb</Mines-2-4>
+	<Mines-2-5>21G222222221G2222222.1G....22..0G..2l00l.gG0.W0000.1G0k00000.1G000Sg00b1Pbbbbbbb</Mines-2-5>
+	<Mines-2-6>221G222222220G222222..gG....222.1G..2l000.2G0.W0000.2G0k0000K.1G000S00bb1Pbbbbbb</Mines-2-6>
+	<Mines-2-7>222133www1222133www1...133www1l2.133www100.133www100.133www10K.133www1bbb133www1</Mines-2-7>
+	<Mines-2-8>1G111111111G222222221G222222222G....22..2G..2l00l21G0.W000001G0k0000001G000S000K</Mines-2-8>
+	<Mines-2-9>11G111111121G222222221G2222222.2G....22..2G..2l00l.1G0.W0000.1G0k000T0.1G000S0T0</Mines-2-9>
+	<Mines-2-10>112G111111222G222222221G222222..2G0...222.2Gg.20000.1G0.W0000.1G0k0000K.1G00a0S0</Mines-2-10>
+	<Mines-2-11>111133333122213333312221333331...13331110lK133122101113312210%01331221K%$1111221</Mines-2-11>
+	<Mines-2-12>1Pbbbbbbbb2G111111112G122222222G122222221G122222221G122222221G00s000s01111111111</Mines-2-12>
+	<Mines-2-13>b1Pbbbbbbb11G111111122G122222222G122222221G122222221G122222200G000s0001111111111</Mines-2-13>
+	<Mines-2-14>bb1Pbbbbbb111G111111200G1000012ggG100001211G100001211G100001000G00xx001111111111</Mines-2-14>
+	<Mines-2-15>bbbb111221111111122111111112210000000001000000000100T000000100TK00K9011111111111</Mines-2-15>
+	<Mines-3-0>1111111111100000000010000000001000000000190000000010S00000S010000000001000000000</Mines-3-0>
+	<Mines-3-1>111111111100000000000000000000000000000000000000000000S0000000000000000000000000</Mines-3-1>
+	<Mines-3-2>11111111110000000000000000000000000000000000000000S00000S00000000000000000000000</Mines-3-2>
+	<Mines-3-3>11111111110G00G00G010G00G00G010G00G00G010G00G00G010G00G00G010G00G00G010GgKGgKG01</Mines-3-3>
+	<Mines-3-4>1000000000100000000010000000001000000000100000000010xx0xx0xx10ii0ii0ii1000000000</Mines-3-4>
+	<Mines-3-5>000000000000000000000000000000000000000000000000000xx0xx0xx00ii0ii0ii00000000000</Mines-3-5>
+	<Mines-3-6>00000000000000000000000000000000000000000000000000xx0xx0xx0xii0ii0ii0i0000000000</Mines-3-6>
+	<Mines-3-7>0P00P00P010G00G00G010G00G00G010G00G00G010G00G00G01xGxxGxxG01iGiiGiiG010GgKGgKG01</Mines-3-7>
+	<Mines-3-8>10000000001000000000100000000010000000001000000000100000000010000000001000000000</Mines-3-8>
+	<Mines-3-9>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Mines-3-9>
+	<Mines-3-10>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Mines-3-10>
+	<Mines-3-11>0P00P00P010G00G00G010G00G00G010G00G00G010G00G00G010G00G00G010G00G00G010GgKGgKG01</Mines-3-11>
+	<Mines-3-12>100000000010000000001000000000100000000010000000001wxxwxxwxx1wwwwwwwww1111111111</Mines-3-12>
+	<Mines-3-13>00000000000000000000000000000000000000000000000000wxxwxxwxxwwwwwwwwwww1111111111</Mines-3-13>
+	<Mines-3-14>00000000000000000000000000000000000000000000000000xxwxxwxxwxwwwwwwwwww111111111w</Mines-3-14>
+	<Mines-3-15>0P00P00P010G00G00G010G00G00G010G00G00G010G00G00G01xGxxGxxG91w111111111wwwwwww111</Mines-3-15>
+	<Mines-4-0>G0000000G0P1111111P0Gm000000G0Gm000000G0Gm0000Gxx0Gm0000P110Gm0000G000Gm000Gxx00</Mines-4-0>
+	<Mines-4-1>0000000000mmmmmmmmmm1ttttttttt1tK00000t01t00m0m0m01tK~000~t01ttttttttt1mmmmmmmmm</Mines-4-1>
+	<Mines-4-2>0000000000mmmmmm1iiitttttt1imb0000Kt1ib0m0m00t1im00~00Kt1ibgtttttt1imbmmmmmmmiii</Mines-4-2>
+	<Mines-4-3>00000iS000iiii0i0KK0mbmi0igxxg00bimmmmmm00mi0G0000ggbi0G0000mbmi0G0900iiii0Pmmm0</Mines-4-3>
+	<Mines-4-4>Gm000P1110Gm000G0000Gm000xx000Gm001111xxGK00000K11G00000000KG000000000G000000000</Mines-4-4>
+	<Mines-4-5>0000000000000000000000000000000000000000xx0000000011xx00000m0K11xx0011000K110222</Mines-4-5>
+	<Mines-4-6>000000000:00000000xx000000mmmm0000000000xxxxxxxxxxmmmmmmmmmm11111111112222222222</Mines-4-6>
+	<Mines-4-7>00000G0N00xxxxxxxx00mmmmmmmmmm00000000000000000000m00000000011000000002220000000</Mines-4-7>
+	<Mines-4-8>G000000000G000000000G000000~00Gxxxxxxxxx111111111100000000000000000000000T0bbbbb</Mines-4-8>
+	<Mines-4-9>00000Kmmmm00000000ii~00~00~000xxxxxxxxxx111111111100000000000000mmmmmmbbb0m0000m</Mines-4-9>
+	<Mines-4-10>mmmmmmmmmmi00iii00ii0000000000xxxxxxxxxx11111111110000000000iiiiiiiiiiimmmmitttt</Mines-4-10>
+	<Mines-4-11>mmmmmmmmmmi00iiiG000000000G000xxxxx0G000111111P000000000G000iiiiiiG000i|000iG000</Mines-4-11>
+	<Mines-4-12>000T000%K$000T00K%xx000T0bbbbb000T000000000T000000000T0000000N9T0xxxxxwmmmwwwwww</Mines-4-12>
+	<Mines-4-13>%000m0000m%K00m0000mbbb0m0000m0000mmmmmm00000000000000000000xxxxxxxxxxwwwwwwwwww</Mines-4-13>
+	<Mines-4-14>im00mit00tim00mit00timmmmittttiiiiiiiiii00000000000000000000xxxxxxxxxxwwwwwwwwww</Mines-4-14>
+	<Mines-4-15>i0KK0iG000i0a00iG000i0000iG000iiiiiiG000000000G000000000GN0Kxxxxxxxxxmwwwwwwwwwm</Mines-4-15>
+	<Jungle-5-0>00000000000000000000009000000011111111110L0L0L0L00000L0L000000000000001111M11111</Jungle-5-0>
+	<Jungle-5-1>G0L0L0L0L0G000L0L000G000000000P111111111Gt:t:t:t:tG:::::::::Gt:t:t:t:tP:::::::::</Jungle-5-1>
+	<Jungle-5-2>G000000000G000000000G000000000P111111111G0000:0000G00titit00G:ittttti:P111111111</Jungle-5-2>
+	<Jungle-5-3>GV0000lb00G000000b00G000000b00P000000b00G0g0g0Kb00Gbbbbbbb00G000000000P111111111</Jungle-5-3>
+	<Jungle-5-4>tttttttttttG0t0G000ttGgtiG::00tPtttPtt00tG000Gt000tGgi0Gti0ttttttttttt1111111111</Jungle-5-4>
+	<Jungle-5-5>Gt:t:t:t:tG:::::::::Gt:t:t:t:tP111111111G000000000G000000000GxxTxxTxx0P111111111</Jungle-5-5>
+	<Jungle-5-6>G000000000G000000000GxxTxxTxx0P111111111G0L0L0L0L0G000L0L000G000000000P111111111</Jungle-5-6>
+	<Jungle-5-7>G0L0L0L0L0G000L0L000G000000000P111111111G000000000G00T0T0T00G00T0T0T00P111111111</Jungle-5-7>
+	<Jungle-5-8>0000I00000ttttttttttt00000000tt00000000t0000000000i00000000it00000000tt00000000t</Jungle-5-8>
+	<Jungle-5-9>G000000000G000000000G000000000P111111111GtttttttttGt0000000tG400KKK004Ptwtttttwt</Jungle-5-9>
+	<Jungle-5-10>GtttttttttGt0000000tG0000g0000Pt00G0:::tGti0PtttttGt00G0:::tG400G00000PtttP0i::t</Jungle-5-10>
+	<Jungle-5-11>Geeeez000eG00zz000zeG00000wwwePez00zewweGe0000zeweGe00:00:eeGeeeeeeeeeP111111111</Jungle-5-11>
+	<Jungle-5-12>0::0::0::00xxwxxwxx0ieeweeweei11111111110000000000wwwwwwww10wwwwwwww101111111111</Jungle-5-12>
+	<Jungle-5-13>GtwwtttwwtGtwwwtwwwtGtwwwwwwwtPtwwwwwwwtGtwwwwJwwtGtwwwwwwwtGttttttttt1111111111</Jungle-5-13>
+	<Jungle-5-14>Gt00G0t00tG000G0t0itGtttttttttP111111111G000000000G00i000i00G0i=i0i=i01111111111</Jungle-5-14>
+	<Jungle-5-15>G000000000Git1tit1tiGt111t111tP111111111G000000000G0000T09TTG000TT01TT1111111111</Jungle-5-15>
+	<Jungle-6-0>1111111111110000000011000h00001121t1t1201211t0t112111rtttr11111r101r11111rr0rr11</Jungle-6-0>
+	<Jungle-6-1>60000600000000000000000000000000000000000008000000000000000010000000001111111111</Jungle-6-1>
+	<Jungle-6-2>00000000000010111100000000000000011010000050000000000000000000000000001111111111</Jungle-6-2>
+	<Jungle-6-3>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Jungle-6-3>
+	<Jungle-6-4>11110011111111001111d00d00d00d0g0:000000d==d00d==d002100120000210012001111001111</Jungle-6-4>
+	<Jungle-6-5>1111111111V0000V000000000000000000000000000000000010000000011ssssssss11111111111</Jungle-6-5>
+	<Jungle-6-6>00000100000110011111011100011001100001100110001110011110011000001000001112111111</Jungle-6-6>
+	<Jungle-6-7>000000000000dddddd0000d00+0d000000:G000000d==P=d0000d00G0d002qd20G2d1211111G1111</Jungle-6-7>
+	<Jungle-6-8>001000000L011000011L21wwwwww1L21wwwwww1L011wwww1100211111120000000000s1111111111</Jungle-6-8>
+	<Jungle-6-9>1111111111111111111112000000210000000000000000000002200002202112ss21121111111111</Jungle-6-9>
+	<Jungle-6-10>1111111111110000001110000000010000000000000000000010000000011100ss00111111111111</Jungle-6-10>
+	<Jungle-6-11>L000112222L110011111L111000110L1100001100110001110011110011000001000001110101111</Jungle-6-11>
+	<Jungle-6-12>11000000101000I0000011BBBBBB10110000001011wwwwww1111wwwwww11113wwww3111111111111</Jungle-6-12>
+	<Jungle-6-13>000000000000000000000000090000000111100001wvvvvw10s1wwwwww1111wwwwww111vvwwwwvv1</Jungle-6-13>
+	<Jungle-6-14>1111111111111111111112000000210000000002000000000002200002202112ss21121111111111</Jungle-6-14>
+	<Jungle-6-15>1200000G210001111P000002222G000000000G000000000G00000000000020000222221000111111</Jungle-6-15>
+	<Jungle-7-0>00000000000011111100000000000000000000000008000000000000000000000000001111111111</Jungle-7-0>
+	<Jungle-7-1>00000000000000000000000000000000000000000050000000000000000000000000001111111111</Jungle-7-1>
+	<Jungle-7-2>0000000000000000000000000000000000500000000000000000T000000011111111111111111111</Jungle-7-2>
+	<Jungle-7-3>111111111111V0000211120000021100000002110000000211112000021111120021111111001111</Jungle-7-3>
+	<Jungle-7-4>1eeeeeee11eezzzzzeeeez00000zeeez00000L00ez00000L00ez00zz0Lzeez00zz00zeez000000ze</Jungle-7-4>
+	<Jungle-7-5>eeeeeeee11zzzzzzzeee0000000zee000000000000000000000:00000zeezzzz00zeeeeeee00ee11</Jungle-7-5>
+	<Jungle-7-6>11eeeeee11eeezzzzeeeeez0000zee00000000000000000000eez0ss0zeeeeezzzzeee11eeeeee11</Jungle-7-6>
+	<Jungle-7-7>11ee00ee11eeez00zeeeeez0000zee00000000ze00000000zeeezwwwwzeeeeezzzzeee11eeeeee11</Jungle-7-7>
+	<Jungle-7-8>eewwwwwweeeewwwwwweeeewwwwwweeeewwwJwweeeewwwwwweeeeewwwweeeeeeeeeeeee11eeeeee11</Jungle-7-8>
+	<Jungle-7-9>ez000000zeez00zz00zeez00zz00ze00000000000000000000ez00zz00zeez00zz00zeezzwwwwzze</Jungle-7-9>
+	<Jungle-7-10>11eeeeee11eeezzzzeeeeez0000zee00000000000000000000ez000000zeeezz00zzeeeeee00eeee</Jungle-7-10>
+	<Jungle-7-11>11eeeeeeeeeeezzzzeeeeez0000zee0000000zee0000e00zeeez00L00zeeeezzL0zeeeeeeeL0eeee</Jungle-7-11>
+	<Jungle-7-12>11eeeeee11eeeeeeeeeeee00000zeeee000X0000ee00ee0000eee09e0z00eeeeeeeeeeeeeeeeeeee</Jungle-7-12>
+	<Jungle-7-13>eeeeeeeeee0L00L00L000L00L00L000L00L00L000000000L00000000000zssssssssse1111111111</Jungle-7-13>
+	<Jungle-7-14>11ee00ee11eeez00zeee0000000zee00000000ze00000000ze0000000Ezeeeez00zzee11ee00eeee</Jungle-7-14>
+	<Jungle-7-15>11eeL0ee11eeee00eeeeeeewwwweeeeewwwwwweeeewwwwwweeeewweewweeeeeweeweeeeeeeeeeeee</Jungle-7-15>
+	<Jungle-8-0>11111111111111111111111|00011111100001111110EE0111111000011111111111111111111111</Jungle-8-0>
+	<Jungle-8-1>20000000020000000000000000000000000000000008000000000000000000000000001111111111</Jungle-8-1>
+	<Jungle-8-2>00000000000010111100000000000000011010000050000000000000000000000000001111111111</Jungle-8-2>
+	<Jungle-8-3>000000000000000000000000E00000000tttt00000tt00tt00000000000001tt00tt1011rr00rr11</Jungle-8-3>
+	<Jungle-8-4>12000000001d0dddd0001d00+0d0001dd:G000001d==P==0001112G000001120G010001111G01111</Jungle-8-4>
+	<Jungle-8-5>00000000000060000000000000000000000000000q3wwww3q0113wwww31111133331111111111111</Jungle-8-5>
+	<Jungle-8-6>000000000000000000000t0t0000000t0tddddd00t0t0000d00t00000:000tit====d01111111111</Jungle-8-6>
+	<Jungle-8-7>000000002100000ddddd0000dd000d0000000:0d000dd====1000d00++110000:01111111d==1111</Jungle-8-7>
+	<Jungle-8-8>10100001001111101121110000000211110111011200000200111010111010001000101212112112</Jungle-8-8>
+	<Jungle-8-9>111111111111d1111d1112d0000d210000:0000000d====d0000000000002q121121121111111111</Jungle-8-9>
+	<Jungle-8-10>000000001100dddddd0100d0+00d000000G:000000d=P==d0000d0G00d012qd2G02d111111G01111</Jungle-8-10>
+	<Jungle-8-11>11000000001100000000100000000000000000001000000000110000000011s00x00001111111111</Jungle-8-11>
+	<Jungle-8-12>1111111111211110000L000000900L020000110L000000210L00000011200T00T022001111111111</Jungle-8-12>
+	<Jungle-8-13>000000000000000:00000000dddd000000d0+d000000dd0dd0000010:0000T011d=dd11111111111</Jungle-8-13>
+	<Jungle-8-14>00000000000000000000000000t0t00dddddt0t00d0000t0t000:00000t00d====tit01111111111</Jungle-8-14>
+	<Jungle-8-15>0000:0000000ddddd00000d000d0000G00:00Gd0dPd===dPd0dG00000Gd00G00:00G00d=======d1</Jungle-8-15>
+	<JungleBlackMarket-0>00000000000000000000000000000000000000000008000000000000000000000000002021111100</JungleBlackMarket-0>
+	<JungleBlackMarket-1>........................22......2l00l2..0.000000.00k000000k0000S000K00bbbbbbbbbb</JungleBlackMarket-1>
+	<JungleBlackMarket-2>........................22......2l00l2..0.000000.00k000000k0000S000K00bbbbbbbbbb</JungleBlackMarket-2>
+	<JungleBlackMarket-3>1200000G210001111P000002222G000000000G000000000G002200000G00112T0000001111202111</JungleBlackMarket-3>
+	<JungleBlackMarket-4>1200000G010001111P000002222G000000000G000000000G00000000000020000222221000111111</JungleBlackMarket-4>
+	<JungleBlackMarket-5>........................22......2l00l2..0.000000.00k000000k0000S000K00bbbbbbbbbb</JungleBlackMarket-5>
+	<JungleBlackMarket-6>........................22......2l00l2..0.000000.00k000000k0000S000K00bbbbbbbbbb</JungleBlackMarket-6>
+	<JungleBlackMarket-7>12G000002100P111100000G222200000G000000000G00000000000000022001G000211111P011111</JungleBlackMarket-7>
+	<JungleBlackMarket-8>12G000002100P111100000G222200000G000000000G00000000000000022001G000211111P011111</JungleBlackMarket-8>
+	<JungleBlackMarket-9>........................22......2l00l2..0.000000.00k000000k0000S000K00bbbbbbbbbb</JungleBlackMarket-9>
+	<JungleBlackMarket-10>1111111111111111111111112211111120000lK101W00001110k00000%010000S00%$1bbbbbbbbbb</JungleBlackMarket-10>
+	<JungleBlackMarket-11>...G011111...G0000.....G00a0lK...bbbbbbb..........111111111111111111111111111111</JungleBlackMarket-11>
+	<JungleBlackMarket-12>000000000000000000000000000000013wwww310013wwww310113wwww31111133331111111111111</JungleBlackMarket-12>
+	<JungleBlackMarket-13>00000000000000000000000000000000000000000000000221000002211100002211111111111111</JungleBlackMarket-13>
+	<JungleBlackMarket-14>00000000000000000000000000000000000000000002222220001111111011111111111111111111</JungleBlackMarket-14>
+	<JungleBlackMarket-15>11111111112222222222000000000000000000000008000000000000000000000000001111111111</JungleBlackMarket-15>
+	<JungleHauntedCastle-0>00000000000t0t0t0t0ttttttttttttttttttttt000400000tg00tt0000tttttU00000tttttttttt</JungleHauntedCastle-0>
+	<JungleHauntedCastle-1>00000000000t0t0t0t0ttttttttttttttttttttt000000000t000000000t0000000000tttttttttt</JungleHauntedCastle-1>
+	<JungleHauntedCastle-2>00000000000t0t0t0t0ttttttttttttttttttttt0000000ttttttt000ttt00000x0ttttt000ttttt</JungleHauntedCastle-2>
+	<JungleHauntedCastle-3>00000000000000000000000000000000000000000008000000000000000000000000000211111202</JungleHauntedCastle-3>
+	<JungleHauntedCastle-4>00000000000000000000000000000000000000000000000000000000000000000000000000000000</JungleHauntedCastle-4>
+	<JungleHauntedCastle-5>000000000000G000t000ttPtttt00000G000000000G000000000G0000ttt00G00ttttttttttttttt</JungleHauntedCastle-5>
+	<JungleHauntedCastle-6>0000000ttt00tt000ttt000000tttt00000002tt000ttttttt0000000ttttt000002tttttt0ttttt</JungleHauntedCastle-6>
+	<JungleHauntedCastle-7>0000000G000001111P000002222G000000000G000000000G00000000000020000222221000111111</JungleHauntedCastle-7>
+	<JungleHauntedCastle-8>000G00G000tttPttPttt000G00G000000G00G000000tttt0000000000000tt000000ttttt0000ttt</JungleHauntedCastle-8>
+	<JungleHauntedCastle-9>000000000000G000t000ttPtttt00000G000000000G000000000G0000ttt00G00ttttttttttttttt</JungleHauntedCastle-9>
+	<JungleHauntedCastle-10>0000G00ttt0000Pttttt0000G0tttt0000G002tt0000G00ttttttttttttttttttttttttttttttttt</JungleHauntedCastle-10>
+	<JungleHauntedCastle-11>00G000000000P111100000G222200000G000000000G000000000G000002200000002111111202111</JungleHauntedCastle-11>
+	<JungleHauntedCastle-12>0G00000000tPtt00tt000G000000000G000000000G00h000000G00000090rrrttttrrr1111111111</JungleHauntedCastle-12>
+	<JungleHauntedCastle-13>0000000000tt000000tt000000000000000000000000tt00000000tt0000rrrrttrrrr1111111111</JungleHauntedCastle-13>
+	<JungleHauntedCastle-14>0000000ttt0000000ttt0000000ttD0000000ttD00000000000000000x00rrrrrrrrrr1111111111</JungleHauntedCastle-14>
+	<JungleHauntedCastle-15>000000000000000000tt000000000000000000000000000000000T000000rrrrrrrrrr1111111111</JungleHauntedCastle-15>
+	<IceCaves-9-0>00000000000000000000000000000000000000000080000000000000000000000000000011111110</IceCaves-9-0>
+	<IceCaves-9-1>20000000020000000000000000000000000000000000000000000000000000000000002000000002</IceCaves-9-1>
+	<IceCaves-9-2>10000000001000000000111000000022201100000000220100000000010000000001110000000222</IceCaves-9-2>
+	<IceCaves-9-3>01111200001111112000111111200000002120001120000000112021200000001120001111120000</IceCaves-9-3>
+	<IceCaves-9-4>0000000000jj00000000iii0012f000000012000ii01112000100112000000112000001112000000</IceCaves-9-4>
+	<IceCaves-9-5>00000000000002112000000111100000f1111f000001111000f00211200f00021120000000000000</IceCaves-9-5>
+	<IceCaves-9-6>011iiii110000jjjj0000000ii00000000jj00000000ii00000000jj00000000ii00000002222000</IceCaves-9-6>
+	<IceCaves-9-7>0000000000000000000000220022000011ff11000011001200202100120220210012020002002000</IceCaves-9-7>
+	<IceCaves-9-8>000000000021------1221wwwwww1221vwwwwv1201vwwwwv10011vvvv11002111111200022222200</IceCaves-9-8>
+	<IceCaves-9-9>000000000000000000000000000000F00F00F0000000000000000000000000000000000000000000</IceCaves-9-9>
+	<IceCaves-9-10>00000000000000000000000000000000100000000f1000010000000001f000000000000000000000</IceCaves-9-10>
+	<IceCaves-9-11>00000000000000000000000000000000000000001100000001200000000200000000000000000000</IceCaves-9-11>
+	<IceCaves-9-12>00000000000010021110001001111000110111129012000000111111111021111111201111111111</IceCaves-9-12>
+	<IceCaves-9-13>00000000000000000000000000000000000000001100000011000ssss00000011110000000000000</IceCaves-9-13>
+	<IceCaves-9-14>000000000000000000000000i000f000000000000f0000000000000i000000000000000000000000</IceCaves-9-14>
+	<IceCaves-9-15>000000000000000000000iiiiiiii00021ii12000002222000000000000000000000000000000000</IceCaves-9-15>
+	<IceCaves-10-0>iiiiiiiiiii000000000i00i00i0iii000000000i000000000i000000000i00000000Y1111111111</IceCaves-10-0>
+	<IceCaves-10-1>iiiiiiiiii00000000000iii0iii0000000000000000000000000000000000000000001111111111</IceCaves-10-1>
+	<IceCaves-10-2>22211112220001111000000211200000011110000002112000000022000000000000000000000000</IceCaves-10-2>
+	<IceCaves-10-3>00000000000000000000000000000000000000000008000000000000000000000000000011111110</IceCaves-10-3>
+	<IceCaves-10-4>00000000000000000000000000000000100000000f1000010000000001f000000000000000000000</IceCaves-10-4>
+	<IceCaves-10-5>00000000000000000000000000000000000000001100000011000ssss00000011110000000000000</IceCaves-10-5>
+	<IceCaves-10-6>000000000021------1221wwwwww1221vwwwwv1221vwwwwv1221vwwwwv1221vwwwwv1221vwwwwv12</IceCaves-10-6>
+	<IceCaves-10-7>10000000001000000000111000000022201100000000220100000000010000000001110000000222</IceCaves-10-7>
+	<IceCaves-10-8>00000000000000110000000022000010001100011000110001100000000120~0000~021111001111</IceCaves-10-8>
+	<IceCaves-10-9>00000000000000000000000000000000005000000000000000000000000000021111100000222211</IceCaves-10-9>
+	<IceCaves-10-10>21vwwwwv1221vwwwwv1221vwwwwv1221vwwwwv1201vwwwwv10011vvvv11002111111200022222200</IceCaves-10-10>
+	<IceCaves-10-11>0000000:00000f00iiiif00000:00i000000ig0i0000ffiiii0ff000iiii0000000ii00000000000</IceCaves-10-11>
+	<IceCaves-10-12>11110011110000000000010:00:01001111111100000000000m10:00:01m01111111101111111111</IceCaves-10-12>
+	<IceCaves-10-13>000000000000000000000000000000F00F00F0000000000000000000000000000000000000000000</IceCaves-10-13>
+	<IceCaves-10-14>00000000000000000000000000000000000000001100000001200000000200000000000000000000</IceCaves-10-14>
+	<IceCaves-10-15>00000000000000000000000000000000000~00000001111100001100011000000900001111111111</IceCaves-10-15>
+	<IceCaves-11-0>00000000010000000001000000011100001102220010220000001000000011100000002220000000</IceCaves-11-0>
+	<IceCaves-11-1>00000000000000000000000000000000000000000080000000000000000000000000000011111110</IceCaves-11-1>
+	<IceCaves-11-2>0111100000110010000000011000i1000000000011200ii0001120000000000000000011iiii0000</IceCaves-11-2>
+	<IceCaves-11-3>000000000000000000000000000000000000000000000000000000x0000002211112201111111111</IceCaves-11-3>
+	<IceCaves-11-4>000000000000O000000000000000000000000000020001112002mmm1112000111111000000000000</IceCaves-11-4>
+	<IceCaves-11-5>0000000000000000000000220022000011ff11000011001200202100120220210012020002002000</IceCaves-11-5>
+	<IceCaves-11-6>10000000001000000000111000000022201100000000220100000000010000000001110000000222</IceCaves-11-6>
+	<IceCaves-11-7>0000000000jj00000000iii0012f000000012000ii01112000100112000000112000001112000000</IceCaves-11-7>
+	<IceCaves-11-8>000000000000000000000000i000f000000000000f0000000000000i000000000000000000000000</IceCaves-11-8>
+	<IceCaves-11-9>0000000000000+++++++0+++0000000+000000000+000000000++000000000========0000000000</IceCaves-11-9>
+	<IceCaves-11-10>0000000000++++++++++00000000000000000000000000000000L0000000==========0000000000</IceCaves-11-10>
+	<IceCaves-11-11>0022122111++++++11110+00002211000000X01100000000M10+;0021111=====1=1110000222221</IceCaves-11-11>
+	<IceCaves-11-12>00000000000000000000000000000000005000000000000000000000000000021111100000222211</IceCaves-11-12>
+	<IceCaves-11-13>00000000000000000000000000000000000000001100000011000ssss00000011110000000000000</IceCaves-11-13>
+	<IceCaves-11-14>000000000000000000000f000i0000000000000000000000f00000i0000000000000000000000000</IceCaves-11-14>
+	<IceCaves-11-15>00000000000000000000000000000000000~0000000111110000110001100000#9#0001111111111</IceCaves-11-15>
+	<IceCaves-12-0>0011111100000222200000000000000000000000jjjjjjjjjjiiiiiiiiii00000000001111111111</IceCaves-12-0>
+	<IceCaves-12-1>++++++++++++000000++++0T0000+++++000++++++++00++++++++00++++++++00++++++++00++++</IceCaves-12-1>
+	<IceCaves-12-2>000000000000000000000000000000E0000000001100000011000ssss00000011110000000000000</IceCaves-12-2>
+	<IceCaves-12-3>00000000000000000000000000000000000000000008000000000000000000000000000011111110</IceCaves-12-3>
+	<IceCaves-12-4>00000000000000000000000000000000000000000000000000000000000000000000000000000000</IceCaves-12-4>
+	<IceCaves-12-5>++++00++++++++00++++++++00++++++++00++++++000000++0+++00+++000++00++000000000000</IceCaves-12-5>
+	<IceCaves-12-6>20000000020000000000000000000000000000000000000000000000000000000000002000000002</IceCaves-12-6>
+	<IceCaves-12-7>00000000010000000001000000011100001102220010220000001000000011100000002220000000</IceCaves-12-7>
+	<IceCaves-12-8>0000000000jj00000000iii0012f000000012000ii01112000100112000000112000001112000000</IceCaves-12-8>
+	<IceCaves-12-9>000000000000000000000000000000F00F00F0000000000000000000000000000000000000000000</IceCaves-12-9>
+	<IceCaves-12-10>000000000000000000000000000000000000010000100001f00f1000000000000000000000000000</IceCaves-12-10>
+	<IceCaves-12-11>00000000000000I000000000--00000000000000000000000000000000000000ss00000000110000</IceCaves-12-11>
+	<IceCaves-12-12>00000000000000000000000000000000000000000iiiiiiii00021ii120000022220000000000000</IceCaves-12-12>
+	<IceCaves-12-13>00000000000000000000000000000005000000000000000000000000000001111120001122220000</IceCaves-12-13>
+	<IceCaves-12-14>000000000000000000000000i000f000000000000f0000000000000i000000000000000000000000</IceCaves-12-14>
+	<IceCaves-12-15>00000000000000000000000000000000000000000008000000000000000000000000001111111111</IceCaves-12-15>
+	<Worm-0>0000000000111000000000L000000011L000000011L001110011L011Q11000001202101110120211</Worm-0>
+	<Worm-1>11111111112222222222000000000000000000000008000000000000000000000000002021111120</Worm-1>
+	<Worm-2>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-2>
+	<Worm-3>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-3>
+	<Worm-4>00100002000111101121010000000221110111010200000000011010111000001000101210112112</Worm-4>
+	<Worm-5>00000000010110011111011100011001100001100110001110011110011000001000001110101111</Worm-5>
+	<Worm-6>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-6>
+	<Worm-7>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-7>
+	<Worm-8>0000000000011000011001wwwwww1001wwwwww10011wwww110021111112000000000001112002111</Worm-8>
+	<Worm-9>00000000000000021200021200L00000Q000L212000000L0L0000000L0L000000000L00000000000</Worm-9>
+	<Worm-10>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-10>
+	<Worm-11>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-11>
+	<Worm-12>000000000000000000000001002000000000000000020020001s000000s111ssssss111111111111</Worm-12>
+	<Worm-13>00000000010110011111011100011001100001100110001110011110011000001000001110101111</Worm-13>
+	<Worm-14>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-14>
+	<Worm-15>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-15>
+	<Worm-16>000000000000000001110000000L000000000L110011100L11011Q110L1101202100001120210111</Worm-16>
+	<Worm-17>000000000000000000000002002000000000000000010010001s000000s111ssssss111111111111</Worm-17>
+	<Worm-18>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-18>
+	<Worm-19>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-19>
+	<Worm-20>0dd0000dd02d0dddd0d20ddd00ddd02d0dddd0d20ddd00ddd000dddddd0011d0000d111111001111</Worm-20>
+	<Worm-21>0010000100011000011021wwwwww1221wwwwww12011wwww110021111112000000000000000000000</Worm-21>
+	<Worm-22>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-22>
+	<Worm-23>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-23>
+	<Worm-24>0000000000011000011001wwwwww1001wwwwww10011wwww110021111112000000000001112002111</Worm-24>
+	<Worm-25>00100002000111101121010000000221110111010200000000011010111000001000101210112112</Worm-25>
+	<Worm-26>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-26>
+	<Worm-27>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-27>
+	<Worm-28>00200001000111101101010000010221011101010001000000012101101101000100002111110121</Worm-28>
+	<Worm-29>0000000000111000000000L000000011L000000011L001110011L011Q11000001202101110120211</Worm-29>
+	<Worm-30>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-30>
+	<Worm-31>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-31>
+	<Worm-32>0000000dd00011111110011vvvvvvw01vwwwwwww01vwwwwwww011cwwwwww00111111110000000000</Worm-32>
+	<Worm-33>0dd00000000111111100wvvvvvv110wwwwwwwv10wwwwwwwv10wwwwwww11011111111000000000000</Worm-33>
+	<Worm-34>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-34>
+	<Worm-35>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-35>
+	<Worm-36>00000000000021200000000L002120212L000Q000L0L0000000L0L0000000L000000000000000000</Worm-36>
+	<Worm-37>00000000010110011111011100011001100001100110001110011110011000001000001110101111</Worm-37>
+	<Worm-38>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-38>
+	<Worm-39>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-39>
+	<Worm-40>000000000000000000000001002000000000000000020020001s000000s111ssssss111111111111</Worm-40>
+	<Worm-41>10000000011100000011100000000100000000000000g00000100000000111000000111111001111</Worm-41>
+	<Worm-42>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-42>
+	<Worm-43>00000000000000000000000000000000000000000000000000000000000000000000000000000000</Worm-43>
+	<Worm-44>000000000000000000000000090000000111100001wvvvvw1001wwwwww1011wwwwww111vvwwwwvv1</Worm-44>
+	<Worm-45>000000000000000000000002002000000000000000010010001s000000s111ssssss111111111111</Worm-45>
+	<Temple-13-0>00000000001111111000111111000011111000001111000000111000000011000000110000000000</Temple-13-0>
+	<Temple-13-1>00111111100000000000000000000000000000000000090000001111111000100000401112002111</Temple-13-1>
+	<Temple-13-2>000000000000600000000000000000000000000000000000000022211q0000000001201qqqq10111</Temple-13-2>
+	<Temple-13-3>11111000001111100000111110000011111000001111150000111110000011111000001111111111</Temple-13-3>
+	<Temple-13-4>11111111112000000002110122101111000000111101221011200000000220012210021100000011</Temple-13-4>
+	<Temple-13-5>000000000000000000000000&amp;0000000000000000q3wwww3q0013wwww31011133331111111111111</Temple-13-5>
+	<Temple-13-6>00000000000001111111000011111100000111110000001111000000011111000000110000000000</Temple-13-6>
+	<Temple-13-7>00000000110000000111000000111200000111110000111122000111111100111112221111111111</Temple-13-7>
+	<Temple-13-8>11111111112111111112021111112000211112000002112000000022000002200002201111001111</Temple-13-8>
+	<Temple-13-9>110000001100L0000L0011Pr000P1111L0000L1111L0000L1102L0000L2000000000001111111111</Temple-13-9>
+	<Temple-13-10>1000000001000r000000100000000110000000011111111111000000000000000000001111111111</Temple-13-10>
+	<Temple-13-11>00000111110000011000000001100000Y00110001111111000000001100000Y00110001111111111</Temple-13-11>
+	<Temple-13-12>1000000001200r000002100000000110000000011100000011000000000000000000001111111111</Temple-13-12>
+	<Temple-13-13>1111111111240000004211011110111200000021111111111100000000000000Y00000qqqqqqqqqq</Temple-13-13>
+	<Temple-13-14>0000000001000r000001000000000100000000010000000011000022000000011110001111111111</Temple-13-14>
+	<Temple-13-15>11111111110000000000000000000000000000000008000000000000000000000000001111111111</Temple-13-15>
+	<Temple-14-0>11111111110000000000111111100011111100001111100000111100000011100000001100000011</Temple-14-0>
+	<Temple-14-1>11111111110000000000000000000000000000000008000000000000000000000000001111111111</Temple-14-1>
+	<Temple-14-2>11111111110000000000000111111100001111110000011111000000111100000001111100000011</Temple-14-2>
+	<Temple-14-3>11ttttt0111111111011110ttttt11110111111111ttttt011111111101111Ettttt111111111111</Temple-14-3>
+	<Temple-14-4>1000000001000000000010000000011000000001100000000100T0000T000dddddddd01111111111</Temple-14-4>
+	<Temple-14-5>1111111111000000000011011110111101111011100111100111wwwwww1111wwwwww111111111111</Temple-14-5>
+	<Temple-14-6>220000002200000000000000000000000000000000000000000000x0000000111111001111111111</Temple-14-6>
+	<Temple-14-7>00000000006000060000000000000000000000000500000000000000000000000000001111112021</Temple-14-7>
+	<Temple-14-8>1111111111240000004211011110111200000021111111111100000000000000Y00000qqqqqqqqqq</Temple-14-8>
+	<Temple-14-9>11111111112111111112021111112000211112000002112000000022000002200002201111001111</Temple-14-9>
+	<Temple-14-10>0000000001000r000001000000000100000000010000000011000000000000000000001111111111</Temple-14-10>
+	<Temple-14-11>000000000000000000000000&amp;0000000000000000q3wwww3q0013wwww31011133331111111111111</Temple-14-11>
+	<Temple-14-12>11111111112400000042110111101112000000211111111111000000000000000000001111111111</Temple-14-12>
+	<Temple-14-13>1000000001200r00000210000000011000000001110000001100000000000000Y00000qqqqqqqqqq</Temple-14-13>
+	<Temple-14-14>1000000001000r000000100000000110000000011111111111000000000000000000001111111111</Temple-14-14>
+	<Temple-14-15>00000000000000000000000000000000000000000008000000000000000000000000000000000000</Temple-14-15>
+	<Temple-15-0>00000000000000000000000000000000000000000000000000000000000009000000001111111111</Temple-15-0>
+	<Temple-15-1>0000000000000000000000000000000000000000000100100000110011000111;01110111BBBB111</Temple-15-1>
+	<Temple-15-2>000000000000000000000000&amp;000000000000000013wwww310013wwww31011133331111111111111</Temple-15-2>
+	<Temple-15-3>000000000000600000000000000000000000000000000000000000211q0000000001201qqqq10111</Temple-15-3>
+	<Temple-15-4>0000000000006000000000000000000000000000000000000000q1122200021000000011101qqqq1</Temple-15-4>
+	<Temple-15-5>110000001100L0000L0011Pr000P1111L0000L1111L0000L1102L0000L200000Y00000qqqqqqqqqq</Temple-15-5>
+	<Temple-15-6>1000000001200r00000210000000011000000001110000001100000000000000s000001111111111</Temple-15-6>
+	<Temple-15-7>1000000000100r00000010000000001000000000110000000000000000000000Y00000qqqqqqqqqq</Temple-15-7>
+	<Temple-15-8>1200000021000000000012000000211220LL02211111PP11110011LL11000000LL00001111001111</Temple-15-8>
+	<Temple-15-9>1000000001200r000002100000000110000000011100000011000000000000000000001111111111</Temple-15-9>
+	<Temple-15-10>00000000000060000000000000000000000000000000000000002022020000100001001111111111</Temple-15-10>
+	<Temple-15-11>11111111112111111112021111112000211112000002112000000022000002200000E01111111111</Temple-15-11>
+	<Temple-15-12>11110011112400000042110111101112000000211111001111000000000000000000001111111111</Temple-15-12>
+	<Temple-15-13>0000000001000r000001000000000100000000010000000011000022000000011110001111111111</Temple-15-13>
+	<Temple-15-14>000000000100000000010000&amp;0000000000000000qqwwwwwq1013wwww31111133331111111111111</Temple-15-14>
+	<Temple-15-15>00000000000000000000000000000000000000000008000000000000000000000000000000000000</Temple-15-15>
+	<TempleOlmec-0>22222200002222220000222222000022222200002222220000222222000022222200000000000000</TempleOlmec-0>
+	<TempleOlmec-1>L000000000L000000000L000000000L022220000L022220000L022220000L022220000L022220000</TempleOlmec-1>
+	<TempleOlmec-2>00000000000000000000000000000000000000000000000000000000000000000000020000000002</TempleOlmec-2>
+	<TempleOlmec-3>L000222222L000222222L000000000L000000000L000000000L000000000L222220000L222220000</TempleOlmec-3>
+	<TempleOlmec-4>00000000000000000000000000000000000000000000000000222222222222222222222222222222</TempleOlmec-4>
+	<TempleOlmec-5>L022220000L022220000L000000000L000000000L000000000L000000000L000000000L000000000</TempleOlmec-5>
+	<TempleOlmec-6>00000000000000000000000000000000000000000000000000222222222222222222222222222222</TempleOlmec-6>
+	<TempleOlmec-7>L.........L.........L....22...L..2l00l2.L0.000000.L0k000000.L000S000K.Lbbbbbbbbb</TempleOlmec-7>
+	<TempleOlmec-8>00000000000000000000000000000000000000000000000000000000000000000000000000000000</TempleOlmec-8>
+	<TempleOlmec-9>L000000000L000000000L000000000L000000000L000000000L000000000L000000000L000000000</TempleOlmec-9>
+	<TempleOlmec-10>00000000000000000000000000000000000000000000000000000000000000000000000000000000</TempleOlmec-10>
+	<TempleOlmec-11>L222222222L222222222L000000000L000000000L000000000L000000000L000000000L000000000</TempleOlmec-11>
+	<TempleOlmec-12>11111111111222111111122211111111111111111111111111111111111111111111111111111111</TempleOlmec-12>
+	<TempleOlmec-13>11111111111111111111111111111111122221111112222111111111111111111111111111111111</TempleOlmec-13>
+	<TempleOlmec-14>11111111111111112221111111222111111111111111111111111111111111111111111111111111</TempleOlmec-14>
+	<TempleOlmec-15>11111111111111111111111111111111111111111111111111111111111111111111111111111111</TempleOlmec-15>
+	<Hell-17-0>0000000000000900000000hhh0000000hhhh000000hhhhh00000hhhhhh000hhhh222001111111111</Hell-17-0>
+	<Hell-17-1>60000600000000000000000000000000000000000050000000000000000000000000001111111111</Hell-17-1>
+	<Hell-17-2>00000000000f000000f00000000000000q00q00000010010000f010010f000010010001111001111</Hell-17-2>
+	<Hell-17-3>0000hh000000shhhhs000shhhhhhs00hhhU0hhh0shh0000hhshhhh00hhhhhhQ0000Qhhhh000000hh</Hell-17-3>
+	<Hell-17-4>11111111112222111111000002211100000002110000000000200000000000000000211120000211</Hell-17-4>
+	<Hell-17-5>00000000000000q00000000020000000q010q0000020102000q0101010q01s1s1s1s1s1111111111</Hell-17-5>
+	<Hell-17-6>00000000000000000000000000000000000000000021111200021111112001111111101111111111</Hell-17-6>
+	<Hell-17-7>hh000000hhhh0V0000hhhh000000hhhh000000hhhh000000hhhhh00000hhhhQ0hhhhhhhh0qhhhhhh</Hell-17-7>
+	<Hell-17-8>0000000000000000000000000000000000&amp;00000013wwww310013wwww31011133331111111111111</Hell-17-8>
+	<Hell-17-9>00000000000000000000000000000000000000000050000000000000000000000000001111111111</Hell-17-9>
+	<Hell-17-10>00000000000000220000000000000000200002000112002110011100111012000000211111001111</Hell-17-10>
+	<Hell-17-11>hh0L00L0hhhhhL00Lhhh040L00L040hhhL00Lhhhhh0L00L0hh040ssss040hhshhhhshhhhhhhhhhhh</Hell-17-11>
+	<Hell-17-12>000000000000100hhhh000100h00h000110h00h2001200000090111h==h011111111201111111111</Hell-17-12>
+	<Hell-17-13>60000600000000000000000000000000000000000000000000000000000000000000001111111111</Hell-17-13>
+	<Hell-17-14>000000000000000000000000000000000000000000210012000021001200ssssssssss1111111111</Hell-17-14>
+	<Hell-17-15>00000000000000hh00000000hh0000h0&amp;0hh0&amp;0hhwwwhhwwwhhwwwhhwwwhhhwwhhwwhh1111111111</Hell-17-15>
+	<Hell-18-0>0000050000001000000000L000000011L111111111L111111100L211120000L21120001001111001</Hell-18-0>
+	<Hell-18-1>50000500000000000000000000000011111111111111111111022222222000000000001100000011</Hell-18-1>
+	<Hell-18-2>000L00L0000hhL00Lhh00hhL00Lhh00hhL00Lhh00hh0000hh00hh0090hh01hh=-==hh11hhh0hhhh1</Hell-18-2>
+	<Hell-18-3>500000000000000001000000000L001111111L111111111L110021112L000002112L001000111001</Hell-18-3>
+	<Hell-18-4>00000000000000hh00000000hh0000h0&amp;0hh0&amp;0hhwwwhhwwwhhwwwhhwwwhhhwwhhwwhh1111111111</Hell-18-4>
+	<Hell-18-5>11111111110000000000110000001111222222111111111111112222221122000000221100000011</Hell-18-5>
+	<Hell-18-6>111111111101*1111*10001111110000000000000000I000000011A0110001*1111*101111111111</Hell-18-6>
+	<Hell-18-7>01100000000L001100000L000L01100L000L0L000L00000L000000000L0000000000001100000011</Hell-18-7>
+	<Hell-18-8>00000000006000060000000000000000000000000000000000000000000002200002201112002111</Hell-18-8>
+	<Hell-18-9>00000000000000000000000000000000000000000050000000000000000000000000001111111111</Hell-18-9>
+	<Hell-18-10>00000000000000001110000001110000000011105000011100000000111000000111001111112111</Hell-18-10>
+	<Hell-18-11>00000000000000000000000000000000000&amp;0000013wwww310013wwww31011133331111111111111</Hell-18-11>
+	<Hell-18-12>00000000000000000000000600000000000000000000000000000111110000111111001111111111</Hell-18-12>
+	<Hell-18-13>11111111110011111100000111100000001100000000000000000000000002200002201111ss1111</Hell-18-13>
+	<Hell-18-14>50000500000000000000000000000011111111110211111120002222220000000000001111111111</Hell-18-14>
+	<Hell-18-15>00000000000hhhh001000h00h001002h00h0110000000021000h==h1110902111111111111111111</Hell-18-15>
+	<Hell-19-0>0000000000000hhhh000000h00h00000hhhhhh0000hh00hh000hhhhhhhh00h00hh00h0hh0hhhh0hh</Hell-19-0>
+	<Hell-19-1>0000050000001000000000L000000011L111111111L111111100L211120000L21120001001111001</Hell-19-1>
+	<Hell-19-2>00011110000002112000000022000011200002110112002110022000022000002200001111111111</Hell-19-2>
+	<Hell-19-3>0000000000000000900000000hhh000000hhhh00000hhhhh0000hhhhhh0000222hhhh01111111111</Hell-19-3>
+	<Hell-19-4>220000002200000000000000000000000000000000000000000000x0000002211112201111111111</Hell-19-4>
+	<Hell-19-5>00011200000011120000000112000011112002110112002110022000022000000000001122112211</Hell-19-5>
+	<Hell-19-6>00000000000000hh00000000hh0000h0&amp;0hh0&amp;0hhwwwhhwwwhhwwwhhwwwhhhwwhhwwhh1111111111</Hell-19-6>
+	<Hell-19-7>0111001110001100110000000000002200000022000000000000001100000000QQ00001111001111</Hell-19-7>
+	<Hell-19-8>60000600000000000000000600000000000000000000000000000222220000111111001111111111</Hell-19-8>
+	<Hell-19-9>11111111112111111112021111112000211112000002112000000022000002200002201111001111</Hell-19-9>
+	<Hell-19-10>00000000000000001110000001110000000011105000011100000000111000000111001111112111</Hell-19-10>
+	<Hell-19-11>00000000006000060000000000000000000000005000000000000000000000000000001111100021</Hell-19-11>
+	<Hell-19-12>000000000000100hhhh000100h00h000110h00h2001200000090111h==h011111111201111111111</Hell-19-12>
+	<Hell-19-13>000000000000000000000000000000000000000000210012000021001200ssssssssss1111111111</Hell-19-13>
+	<Hell-19-14>hhhq00qhhhq00000000q000q00q000q==h00h==q0000000000000000000000000000001111111111</Hell-19-14>
+	<Hell-19-15>00000000000000000000000000000000ffffff000000000000020000002011ssssss111111111111</Hell-19-15>
+	<Hell-20-0>0000Q000L000000000L009000000L0hhhh00h0L0hhhh00h000hhhh00h000hhhh00h0000000000000</Hell-20-0>
+	<Hell-20-1>0L00L0L0000L00L0L0000L00L000000000L000000000L000000000000Y0000000000000000000000</Hell-20-1>
+	<Hell-20-2>000L0L00L0000L0L00L000000L00L000000L000000000L0000000000000000000000000000000000</Hell-20-2>
+	<Hell-20-3>0L000Q00000L000000000L00000CCC0L0h00hhhh000h00hhhh000h00hhhh000h00hhhh0000000000</Hell-20-3>
+	<Hell-20-4>0000000000200000070000000001000010000L0000Q0020L001000000L0020007000000000100000</Hell-20-4>
+	<Hell-20-5>0000000000000000000000000000000000000000000000Ihhh0000000hyy000000Ihyy0000000hyy</Hell-20-5>
+	<Hell-20-6>0000000000000000000000000000000000000000hhhI000000yyh0000000yyhI000000yyh0000000</Hell-20-6>
+	<Hell-20-7>00000000000070000002001000000000L000010000L0200Q0000L000000700000700010000010000</Hell-20-7>
+	<Hell-20-8>00000000000070000002001000000000L000010000L0200Q0000L000000700000700010000010000</Hell-20-8>
+	<Hell-20-9>000000Ihyy0000200hyy000000Ihyy0000000hyy002000Ihyy0000000hyy000000Ihyy000200hhyy</Hell-20-9>
+	<Hell-20-10>yyhI000000yyh0020000yyhI000000yyh0000000yyhI000200yyh0000000yyhI000000yyhh020000</Hell-20-10>
+	<Hell-20-11>00000000000000070000007021200002100Q00000000000070000000001202120000Q00000000000</Hell-20-11>
+	<Hell-20-12>00000000000000000000000000000000000X00000&amp;00qqq000000qqqqqqqwwwwwwwwwwwwwwwwwwww</Hell-20-12>
+	<Hell-20-13>000000000000000000000000000000000000000000000z0009qqqqqqqqqqwwwwwwwwwwwwwwwwwwww</Hell-20-13>
+	<Hell-20-14>00000000000000000000000000000000000000000000000000qqqqqqqqqqwwwwwwwwwwwwwwwwwwww</Hell-20-14>
+	<Hell-20-15>0000000000000000000000000000000000X00000000qqq00&amp;0qqqqqqq000wwwwwwwwwwwwwwwwwwww</Hell-20-15>
+</chunks>
